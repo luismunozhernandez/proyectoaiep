@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>Contacto</title>
+<style>
+body {
+background: linear-gradient(to right, darkred, darkred);
+width: 60%;
+margin: 0 auto;
+}
+
+header {
+text-align: center;
+font-size: 30px;
+}
+
+a {
+color: black;
+text-decoration: black;
+}
+
+h1 {
+text-shadow: 2px 2px 2px black;
+}
+
+footer {
+width: 100%;
+height: 250px;
+text-align: center;
+}
+
+img:hover {
+border-radius:200px;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+header {
+display: block;
+}
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Contacto</h1>
+<a href="./index.html">Inicio</a>
+<a href="./contenido.html">Contenido</a>
+<a href="">Contacto</a>
+</header>
+
+<main>
+<h2>Sitio Web De Futbol</h2>
+<h3>Ultimas Noticias Sobre El Futbol Chileno</h3>
+<p>
+
+ Superclásico entre Colo Colo y Universidad de Chile se disputó el 10 de marzo de 2024 en el Estadio Monumental. Este encuentro fue histórico, ya que la U logró vencer a Colo Colo por 0-1, rompiendo una racha de 23 años sin victorias en calidad de visitante en este escenario. ​
+El único gol del partido lo anotó Israel Poblete al minuto 30, tras un cabezazo que dejó sin opciones al arquero Brayan Cortés. Este triunfo significó también la primera victoria de la U en el Monumental desde 2013. ​
+infobae
+Por otro lado, el 10 de agosto de 2024, ambos equipos se enfrentaron nuevamente, esta vez en el Estadio Nacional, en el Superclásico 196. El partido concluyó en empate 0-0, reflejando la paridad entre ambos clubes en ese momento. 
+
+                                                                      
+
+</p>
+<h2> Liga Chilena</h2>
+<img src="C:\Users\laboratorio_sa\Downloads\Nueva carpeta\OIP.jpg"width="150px">
+<h3>Campeon Liga Chilena 2024</h3>
+<img src="C:\Users\laboratorio_sa\Downloads\Nueva carpeta\imagenn.jpg" width="150px">
+
+</table>
+
+
+<p>
+
+El último campeón de la Primera División de Chile, correspondiente al Campeonato Itaú 2024, fue Colo Colo, quien logró su título número 34 en la historia del club. El equipo se coronó campeón el 10 de noviembre de 2024, tras empatar 1–1 con Deportes Copiapó en la última fecha del torneo. El gol del empate y definitivo Arturo Vidal, quien anotó al minuto 80, asegurando el campeonato para los albos. ​
+La Razón
+Con este título, Colo Colo se consolidó como el club más exitoso del fútbol chileno, ampliando su ventaja sobre Universidad de Chile, que posee 18 títulos. ​
+En Cancha
+El goleador del torneo fue Fernando Zampedri, delantero de Universidad Católica, quien anotó 19 goles durante la temporada. 
+​
+En cuanto al descenso, los equipos que perdieron la categoría fueron Cobreloa y Deportes Copiapó. ​
+La Razón
+
+Este campeonato marcó el regreso de Colo Colo a la cima del fútbol chileno, consolidando su dominio histórico en la liga.​ <a 
+</p>
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<img src="C:\Users\laboratorio_sa\Downloads\Nueva carpeta\i.jpg" width="400px">
+
+
+</main>
+
+<footer>
+<p>Sitio Web Creador Luis Muñoz</p>
+</footer>
+
+</body>
+</html>
